@@ -42,7 +42,7 @@ enum {
     kCCBPropTypeColor4,
     kCCBPropTypeNodeReference,
     kCCBPropTypeFloatCheck,
-    kCCBPropTypeEffects,
+    //kCCBPropTypeEffects,
 };
 
 enum {
